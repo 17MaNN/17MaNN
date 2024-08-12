@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning.
 - 🌱 I’m currently learning Java Development.
 - 💞️ I’m looking to collaborate on some awesome coding projects.
-- 📫 How to reach me: my email- im.in.your.mann@gmail.com
+- 📫 How to reach me: my email- manmohansharma1117@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm also a Web Designer..
 
