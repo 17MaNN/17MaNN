@@ -1,96 +1,21 @@
-<div align="center">
+# 💫 About Me:
+👋 Hi, I’m @17MaNN<br>👀 I’m interested in learning.<br>🌱 I’m currently learning Java Software Development with DSA .<br>💞️ I’m looking to collaborate on some awesome coding projects.<br>📫 How to reach me: my email- manmohansharma1117@gmail.com<br>😄 Pronouns: he/him<br>⚡ Fun fact: I'm also a Web Designer..
 
-<br>
 
-# MAN MOHAN SHARMA
-### `builder / ml engineer / designer`
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im.in.ur.mann) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/man-mohan-sharma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manmohansharma1117@gmail.com) 
 
-<br>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat-square&logo=nVIDIA&logoColor=green) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat-square&logo=inkscape&logoColor=080A13) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=FFFFFF) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=17MaNN&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=17MaNN&theme=synthwave&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=17MaNN&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-![Profile Views](https://komarev.com/ghpvc/?username=17MaNN&style=flat-square&color=1a1a1a&label=)
-
-</div>
-
-<br>
-
-```
-> whoami
-```
-
-CS undergraduate at Uttaranchal University, Class of 2027, based out of Gurugram, India.
-I build machine learning systems and the interfaces that sit on top of them — the
-research and the pixels, same person. Currently running **Pixelforge**, a small
-freelance design & dev studio, and shipping physics-informed ML on the side.
-
-<br>
-
-```
-> log
-```
-
-— 100+ day LeetCode streak, still climbing
-— Qualified · Smart India Hackathon 2024
-— Top 30 (national) · competitive hackathon circuit
-— ML Engineering Intern @ Unified Mentor — supervised pipelines on clinical data
-
-<br>
-
-```
-> stack
-```
-
-<div align="center">
-
-`Python` `Java` `C++` `JavaScript`
-
-`PyTorch` `TensorFlow` `scikit-learn` `XGBoost` `Pandas` `NumPy`
-
-`React` `Next.js` `Tailwind CSS`
-
-`MySQL` `SQL Server`
-
-`Figma` `Adobe CC`
-
-</div>
-
-<br>
-
-```
-> elsewhere
-```
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logoColor=white)](https://manmohansharma.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/man-mohan-sharma)
-[![Instagram](https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/im.in.ur.mann)
-[![Email](https://img.shields.io/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manmohansharma1117@gmail.com)
-
-</div>
-
-<br>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=17MaNN&icon=5&color=9)](https://visitcount.itsvg.in)
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=17MaNN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9&icon_color=ffffff" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=17MaNN&theme=tokyonight&hide_border=true&background=0d0d0d&stroke=0d0d0d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17MaNN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9" width="48%" />
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-*Currently building at the intersection of ML research and product design.*
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
